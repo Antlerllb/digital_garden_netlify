@@ -25,10 +25,15 @@ Figure: Multiagent Timesteps Input
 [[1-Project/2024-美赛/Model I 概念解释图\|Model I 概念解释图]]
 
 By employing masks to filter out unobservable actions, the model can focus on the subset of actions that contribute to the observable dynamics of the game. This can enhance the accuracy of predictions by considering only the relevant and visible aspects of agent behavior.
+[[1-Project/2024-美赛/LSTM公式\|LSTM公式]]
 [[1-Project/2024-美赛/Sequence Encoder公式\|Sequence Encoder公式]]
 [[1-Project/2024-美赛/Sequence Prior公式\|Sequence Prior公式]]
+[[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
+[[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
+
+This model leverages the tennis match information captured by the Bi-LSTM encoder, incorporates latent variables through the sequence prior, and generates output sequences using the sequence decoder. The training involves maximizing the log-likelihood of the observed data.
+
 Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
-
-## 2.2 
+## 2.2 Todo
