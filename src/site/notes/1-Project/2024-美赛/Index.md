@@ -24,6 +24,7 @@
 - [ ] [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 - [ ] [[1-Project/2024-美赛/网球可视化\|网球可视化]]
 - [ ] [[1-Project/2024-美赛/球场可视化\|球场可视化]]
+- [ ] [[1-Project/2024-美赛/Model I 概念解释图\|Model I 概念解释图]]
 - [ ] [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 - [ ] [[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]]
 ## 6.2 LH
