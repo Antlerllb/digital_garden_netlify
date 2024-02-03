@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@ValueTechnical_2021_Kolman/","title":"The value of technical characteristics for future performance in youth tennis players: A prospective study"}
+---
+
+# 1 The value of technical characteristics for future performance in youth tennis players: A prospective study
+## 1.1 Link
+- url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245435
+- item: [item](zotero://select/library/items/JGGA9GQV)
+- file: [zotero.pdf](zotero://open-pdf/library/items/E3QK4PY2); [译文.pdf](zotero://open-pdf/library/items/KZESEESA)
+## 1.2 Abstract
+The aim of this study is to examine whether technical characteristics predict current and future tennis performance of youth tennis players. Twenty-nine male youth tennis players (age 13.40 ± .51) were assessed on anthropometrical characteristics (height, weight, maturity status) and technical characteristics (ball speed, accuracy and percentage errors) using an on-court tennis test when they were under-14 (U14). Game situations were simulated, which were either fixed or variable. The variable game situations required players to consider the direction of the ball, as opposed to the fixed game situations where players needed to play every ball to the same side. Players’ tennis ratings were obtained U14 (‘current performance’) and under-18 (U18) (‘future performance’). According to their rating U18 players were classified as future elite (n = 9) or future competitive (n = 20). A multiple linear regression analysis showed that ball speed and accuracy were significant predictors of current and future performance (p < .001), with R2 of .595 and .463, respectively. When controlling for age, a one-way MANCOVA revealed that future elite players were more accurate than future competitive players (p = .048, 95% CI [.000 to .489]), especially in variable compared to fixed game situations (p < .05). In conclusion, the current study is the first to show that technical characteristics are crucial for current as well as future performance in youth male tennis players. Findings of this prospective study provide essential information to coaches about characteristics that require most attention in performance development in youth players.
