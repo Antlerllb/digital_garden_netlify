@@ -40,3 +40,7 @@
 ## 6.3 草稿
 - [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
 - 在action中加上变量名
+# 7 Todo
+- [[1-Project/2024-美赛/Model I\|Model I]]
+
+{ .block-language-dataview}
