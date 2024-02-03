@@ -19,6 +19,10 @@
 - [[1-Project/2024-美赛/数据字段\|数据字段]]
 # 5 公式
 - [[1-Project/2024-美赛/Sequence Encoder公式\|Sequence Encoder公式]]
+- [[1-Project/2024-美赛/Sequence Prior公式\|Sequence Prior公式]]
+- [[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
+- [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
+- [[1-Project/2024-美赛/LSTM公式\|LSTM公式]]
 
 { .block-language-dataview}
 # 6 画图版
