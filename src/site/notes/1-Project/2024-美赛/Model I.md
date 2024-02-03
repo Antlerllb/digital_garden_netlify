@@ -35,4 +35,8 @@ This model leverages the tennis match information captured by the Bi-LSTM encode
 Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
-## 2.2 Todo
+## 2.2 Result of Task 1: Player's Momentum
+[[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
+[[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]]
+## 2.3 Result of Task 2: 
+[[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
