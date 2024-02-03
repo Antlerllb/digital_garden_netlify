@@ -25,8 +25,18 @@ Figure: Multiagent Timesteps Input
 [[1-Project/2024-美赛/Model I 概念解释图\|Model I 概念解释图]]
 
 By employing masks to filter out unobservable actions, the model can focus on the subset of actions that contribute to the observable dynamics of the game. This can enhance the accuracy of predictions by considering only the relevant and visible aspects of agent behavior.
+**Sequence Encoder (Bi-LSTM)**: The sequence encoder processes input sequences and captures their contextual information using a Bidirectional Long Short-Term Memory (Bi-LSTM) network. For a given sequence of inputs X=(x1,x2,…,xn)X=(x1​,x2​,…,xn​), the forward and backward hidden states ht→ht​​ and ht←ht​​ at each timestep tt are computed as follows:
 
-Figure: 
+> [!NOTE] 公式排版
+> 文本
+> **Sequence Encoder (Bi-LSTM)**: The sequence encoder processes input sequences and captures their contextual information using a Bidirectional Long Short-Term Memory (Bi-LSTM) network. For a given sequence of inputs X=(x1,x2,…,xn)X=(x1​,x2​,…,xn​), the forward and backward hidden states ht→ht​​ and ht←ht​​ at each timestep tt are computed as follows:
+> The final hidden state is obtained by concatenating both directions: ht=[ht→;ht←]ht​=[ht​​;ht​​].
+> 
+> 正文
+> ![5-Attachment/Image/Model I-20240203.png](/img/user/5-Attachment/Image/Model%20I-20240203.png)
+
+Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
+
 
 ## 2.2 
