@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/Paper/Prognostic Validity of Statistical Prediction Methods Used for Talent Identification in Youth Tennis Players Based on Motor Abilities/"}
+---
+
+# Prognostic Validity of Statistical Prediction Methods Used for Talent Identification in Youth Tennis Players Based on Motor Abilities
+## Link
+pdf: "[zotero.pdf](zotero://open-pdf/library/items/UCGX7KJ9) [译文.pdf](zotero://open-pdf/library/items/CE9HX6W4)"
+url: "[https://www.mdpi.com/2076-3417/11/15/7051](https://www.mdpi.com/2076-3417/11/15/7051)"
+doi: "[10.3390/app11157051](https://doi.org/10.3390/app11157051)"
+## Abstract
+(1) Background: The search for talented young athletes is an important element of top-class sport. While performance profiles and suitable test tasks for talent identification have already been extensively investigated, there are few studies on statistical prediction methods for talent identification. Therefore, this long-term study examined the prognostic validity of four talent prediction methods. (2) Methods: Tennis players (N = 174; n♀ = 62 and n♂ = 112) at the age of eight years (U9) were examined using five physical fitness tests and four motor competence tests. Based on the test results, four predictions regarding the individual future performance were made for each participant using a linear recommendation score, a logistic regression, a discriminant analysis, and a neural network. These forecasts were then compared with the athletes’ achieved performance success at least four years later (U13‒U18). (3) Results: All four prediction methods showed a medium-to-high prognostic validity with respect to their forecasts. Their values of relative improvement over chance ranged from 0.447 (logistic regression) to 0.654 (tennis recommendation score). (4) Conclusions: However, the best results are only obtained by combining the non-linear method (neural network) with one of the linear methods. Nevertheless, 18.75% of later high-performance tennis players could not be predicted using any of the methods.
