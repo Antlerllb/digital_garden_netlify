@@ -30,7 +30,6 @@ By employing masks to filter out unobservable actions, the model can focus on th
 [[1-Project/2024-美赛/Sequence Prior公式\|Sequence Prior公式]]
 [[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
 [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
-
 This model leverages the tennis match information captured by the Bi-LSTM encoder, incorporates latent variables through the sequence prior, and generates output sequences using the sequence decoder. The training involves maximizing the log-likelihood of the observed data.
 
 Figure: Bi-LSTMs Sequence Model For Tennis Prediction
