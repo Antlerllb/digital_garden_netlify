@@ -16,5 +16,3 @@
 - [[1-Project/语言习得/文献来源\|文献来源]]
 - [[1-Project/语言习得/论文语料库检索方法\|论文语料库检索方法]]
 - [[1-Project/语言习得/Notion框架\|Notion框架]]
-- [[1-Project/语言习得/test\|test]]
-- test2
