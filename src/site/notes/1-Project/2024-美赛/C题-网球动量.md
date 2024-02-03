@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-Project/2024-美赛/C题-网球动量/"}
 ---
 
+[[5-Attachment/ZoteroNote/@2024_MCM_Problem_C_FINALPdf\|@2024_MCM_Problem_C_FINALPdf]]
 # 1 Model I
 ## 1.1 题目要求
 - 模型：捕捉得分时的比赛流程，并应用
