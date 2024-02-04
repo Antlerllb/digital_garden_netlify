@@ -18,9 +18,12 @@ The probability that a tennis player exhibits a particular momentum outcome (e.g
 [[1-Project/2024-美赛/ELO算法描述\|ELO算法描述]]
 [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
 ## 2.2 Result of Task 3: Swings of ELO Rating in Matches
-#Todo 文字描述
+This section aims to unravel swings of ELO ratings, revealing the strategic maneuvers and pivotal moments that shape the narrative of Wimbledon 2023. The visualizations below provide a comprehensive view of the swings between players, shedding light on the intense and evolving nature of these tennis encounters.
+
 Figure: Swing between Players in Wimbledon 2023 Matches
 [[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]（要体现swing, 以match为单位）
 
-
+In the initial phase of the first match, Alejandro Davidovich Fokina exhibited a robust performance, emphasizing powerful serves and successful break points. His radar chart showcased high values in "Ace," "Break Point Won," and "Net Point Won," indicating a strong focus on these aspects. As the match progressed to the end phase, Fokina faced challenges related to momentum, leading to an increase in errors such as double faults and missed break points as the match reached its conclusion.
+With the introduction of Carlos Alcaraz, a notable shift occurred. In the beginning phase of the match against Holger Rune, Alcaraz displayed powerful and consistent performance across all radar chart parameters, indicating a strong momentum. The court momentum visualization supported this by illustrating Alcaraz's dynamic play on the court.
+In summary, the strategic decision to replace Alejandro Davidovich Fokina with Carlos Alcaraz proved successful for the Spanish tennis team. Alcaraz's growing momentum, showcased in both radar charts and court momentum visualizations, played a crucial role in securing victory over Holger Rune as the matches unfolded.
 [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
