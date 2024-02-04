@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Model I 总公式/","tags":["公式"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Model I 总公式/"}
 ---
 
 # 1 文本
