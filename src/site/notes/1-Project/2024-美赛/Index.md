@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -35,7 +35,7 @@
 - [[1-Project/2024-美赛/球场可视化\|球场可视化]]
 - [[1-Project/2024-美赛/Model I 概念解释图\|Model I 概念解释图]]
 - [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
-- [比赛过程可视化-密度图]]
+- [[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]]
 - [[1-Project/2024-美赛/数据归一化示意图\|数据归一化示意图]]
 - [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
 - [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
