@@ -54,11 +54,12 @@
 - [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
 - [[1-Project/2024-美赛/平击球、挥刀球、踢球\|平击球、挥刀球、踢球]]
 - [[1-Project/2024-美赛/移动路径图\|移动路径图]]
-- 补充问题1的引用
+- [[1-Project/2024-美赛/球员可视化\|球员可视化]]
+- 
 - model 3的实验结果：用数据集的字段
 # 7 Todo
 - [[1-Project/2024-美赛/Model I\|Model I]]
-- [[1-Project/2024-美赛/Model III\|Model III]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
+- [[1-Project/2024-美赛/Model III\|Model III]]
 
 { .block-language-dataview}
