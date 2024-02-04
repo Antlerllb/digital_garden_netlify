@@ -17,10 +17,9 @@ The probability that a tennis player exhibits a particular momentum outcome (e.g
 [[1-Project/2024-美赛/Logit公式\|Logit公式]]  #Todo 把Momentum加进去
 [[1-Project/2024-美赛/ELO算法描述\|ELO算法描述]]
 [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
-## 2.2 Result of Task 3: Swings in the Match
-
-
-Figure: 
+## 2.2 Result of Task 3: Swings of ELO Rating in Matches
+#Todo 文字描述
+Figure: Swing between Players in Wimbledon 2023 Matches
 [[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]（要体现swing, 以match为单位）
 
 
