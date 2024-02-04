@@ -7,10 +7,7 @@
 - 回答：球员的表现和程度
 - 回答：动量的存在
 # 2 Model I: Multiagent Time-Series Prediction Model
-## 2.1 Data Preprossing
-#Todo 
-[[1-Project/2024-美赛/变量聚类图\|变量聚类图]]
-## 2.2 Bi-LSTMs Sequence Model
+## 2.1 Bi-LSTMs Sequence Model
 Our model utilizes the concepts of timestep, agent trajectories, and masks to capture and analyze the temporal dynamics of a tennis match, considering historical movements and applying binary filters for effective time-series prediction.
 
 Table: Multiagent Temporal Dynamics Notion
@@ -32,15 +29,15 @@ By employing masks to filter out unobservable actions, the model can focus on th
 [[1-Project/2024-美赛/Sequence Prior公式\|Sequence Prior公式]]
 [[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
 [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
-This model leverages the tennis match information captured by the Bi-LSTM encoder, incorporates latent variables through the sequence prior, and generates output sequences using the sequence decoder. The training involves maximizing the log-likelihood of the observed data. #Todo 模型还没完
+This model leverages the tennis match information captured by the Bi-LSTM encoder, incorporates latent variables through the sequence prior, and generates output sequences using the sequence decoder. The training involves maximizing the log-likelihood of the observed data.
 
 Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
-## 2.3 Result of Task 1: Player's Momentum
+## 2.2 Result of Task 1: Player's Momentum
 数据
 [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
 [[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
-## 2.4 Result of Task 2: 
+## 2.3 Result of Task 2: 
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
 #Todo 体现后半段表现更好
