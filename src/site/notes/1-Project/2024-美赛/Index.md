@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -57,8 +57,8 @@
 - 补充问题1的引用
 - model 3的实验结果：用数据集的字段
 # 7 Todo
+- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model III\|Model III]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
-- [[1-Project/2024-美赛/Model I\|Model I]]
 
 { .block-language-dataview}
