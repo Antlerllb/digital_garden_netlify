@@ -8,7 +8,7 @@
 - 回答：动量的存在
 # 2 Model I: Multiagent Time-Series Prediction Model
 ## 2.1 Bi-LSTMs Sequence Model
-Our model utilizes the concepts of timestep, agent trajectories, and masks to capture and analyze the temporal dynamics of a tennis match, considering historical movements and applying binary filters for effective time-series prediction.
+Our model utilizes the concepts of timestep, agent trajectories[^1], and masks to capture and analyze the temporal dynamics of a tennis match, considering historical movements and applying binary filters for effective time-series prediction.
 
 Table: Multiagent Temporal Dynamics Notion
 
@@ -41,3 +41,5 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 ## 2.3 Result of Task 2: 
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
 #Todo 体现后半段表现更好
+
+[^1]: Song, H., Li, Y., Zou, X., Hu, P., & Liu, T. (2023). Elite male table tennis matches diagnosis using SHAP and a hybrid LSTM–BPNN algorithm. _Scientific Reports_, _13_(1), 11533.
