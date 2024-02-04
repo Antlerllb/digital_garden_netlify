@@ -35,11 +35,13 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
 ## 2.2 Result of Task 1: Player's Momentum
-数据
+[[1-Project/2024-美赛/Model I 实验结果表\|Model I 实验结果表]]
 [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
 [[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
 ## 2.3 Result of Task 2: 
+
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
-#Todo 体现后半段表现更好
+[[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
+
 
 [^1]: Song, H., Li, Y., Zou, X., Hu, P., & Liu, T. (2023). Elite male table tennis matches diagnosis using SHAP and a hybrid LSTM–BPNN algorithm. _Scientific Reports_, _13_(1), 11533.
