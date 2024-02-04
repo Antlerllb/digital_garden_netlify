@@ -34,17 +34,22 @@ This model leverages the tennis match information captured by the Bi-LSTM encode
 Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
-## 2.2 Result of Task 1: Player's Momentum
+## 2.2 Result of Task 1: Player's Momentum Trends
 #Todo 实验结果的描述
 
 Table: Performance Evaluation Metrics for Various Models in Momentum Prediction
 [[1-Project/2024-美赛/Model I 实验结果表\|Model I 实验结果表]]
 
 The data visualized in the plot represents the momentum of tennis players during the 2023 Wimbledon tournament. The momentum is illustrated in two aspects: within each game and the total momentum accumulated by each player throughout the entire event.
+
+Figure: Histogram of Momentum Trends and Total Performance
 [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
 
+For instance, Carlos Alcaraz's momentum during the 2023 Wimbledon tournament exhibits fluctuations across various games. Notably, in the match "2023-wimbledon-1301," Game 2 stands out with the highest momentum (0.9038), while Game 7 reflects the lowest momentum (0.0095). Overall, Alcaraz maintains a moderate to high level of total momentum, demonstrating consistency throughout the competition.
+Comparing his total momentum (4.9) with other players reveals that Alcaraz performs better than Alexander Zverev (total momentum: 4.64) but slightly falls short of Frances Tiafoe (total momentum: 5.65). This suggests a competitive performance but with room for improvement.
+
 #Todo 比赛可视化描述
-[[1-Project/2024-美赛/比赛过程可视化-条形图\|比赛过程可视化-条形图]]
+[[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
 
 ## 2.3 Result of Task 2: Boost in Player Performance by Momentum Gain
 This article visually depicts the trends in "Momentum," "Ace," "Net_pt_won," "Double Fault," and "Unforced Error" over different points in a tennis match. This comprehensive visualization allows for a holistic analysis of player performance dynamics, considering multiple performance metrics simultaneously.
@@ -52,14 +57,14 @@ This article visually depicts the trends in "Momentum," "Ace," "Net_pt_won," "Do
 Figure: Boost in Player Performance by Momentum Gain
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]的第1个figure
 
-Both "Ace" and "Net_pt_won" show positive correlations with the momentum, indicating that as the match advances, players tend to deliver more aces and achieve success in winning points at the net. This suggests a strong connection between momentum and the enhanced performance of players in terms of ace delivery and net points won.
+Both ace and net_pt_won show positive correlations with the momentum, indicating that as the match advances, players tend to deliver more aces and achieve success in winning points at the net. This suggests a strong connection between momentum and the enhanced performance of players in terms of ace delivery and net points won.
 
 Figure: Drop in Player Performance by Momentum Loss
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]的第2个figure
 
-#Todo 下降的描述
+In early games (e.g., Game 1), high momentum (around 37 points_won) correlates with low double faults (approximately 2 points_won). As matches progress (e.g., Game 5), momentum declines (around 18 points_won), and double faults increase (reaching approximately 15 points_won). In later stages (e.g., Game 8), momentum further decreases (around 15 points_won), and double faults remain elevated (around 30 points_won). This inverse relationship suggests that declining momentum may lead to more double faults, negatively impacting players' performance.
 
-In exploring the dynamics of Wimbledon 2023, we delve into two pivotal facets: the Player Face-off Network and the Player Momentum Overview. #Todo 描述图表并排
+In exploring the dynamics of Wimbledon 2023, we delve into two pivotal facets: the Player Face-off Network and the Player Momentum Overview. Superstar players like Carlos Alcaraz and Novak Djokovic consistently exhibit high momentum, with their decoder outputs surpassing prior outputs. However, among Elite players, the relationship varies; for instance, Daniil Medvedev experiences a slight dip in momentum, while Roman Saiullin shows a significant increase.
 
 Figure: Player Face-off Network For Wimbledon 2023
 Table: Player Momentum Overview For Wimbledon 2023
