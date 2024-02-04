@@ -15,10 +15,11 @@
 **A Multinomial Logit model** is employed with the objective of capturing the dynamics of a tennis player's momentum. As a modeler, the focus is on constructing a predictive framework that describes the likelihood of different outcomes related to a player's momentum. This modeling perspective involves incorporating various input features to estimate the probabilities associated with distinct momentum-related scenarios.
 The probability that a tennis player exhibits a particular momentum outcome (e.g., gaining or losing momentum) is modeled as follows:
 [[1-Project/2024-美赛/Logit公式\|Logit公式]]
-#Todo 算法描述
+
+[[1-Project/2024-美赛/ELO算法描述\|ELO算法描述]]
 [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
 #Todo 流程图描述
-#Todo 流程图
-## 2.2 Result of Task 3: Swings in the match
+# 3 #Todo 流程图
+## 3.1 Result of Task 3: Swings in the match
 使用至少一场比赛提供的数据
 [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
