@@ -40,7 +40,7 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 #Todo 直方图描述
 [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
 #Todo 比赛可视化描述
-[[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
+
 ## 2.3 Result of Task 2: 
 This article visually depicts the trends in "Momentum," "Ace," "Net_pt_won," "Double Fault," and "Unforced Error" over different points in a tennis match. This comprehensive visualization allows for a holistic analysis of player performance dynamics, considering multiple performance metrics simultaneously.
 
@@ -54,10 +54,10 @@ Figure: Drop in Player Performance by Momentum Loss
 
 #Todo 下降的描述
 
+#Todo 描述图表并排
+
 Figure: Player Face-off Network For Wimbledon 2023
 Table: Player Momentum Overview For Wimbledon 2023
 [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
-
-#Todo 描述
 
 [^1]: Song, H., Li, Y., Zou, X., Hu, P., & Liu, T. (2023). Elite male table tennis matches diagnosis using SHAP and a hybrid LSTM–BPNN algorithm. _Scientific Reports_, _13_(1), 11533.
