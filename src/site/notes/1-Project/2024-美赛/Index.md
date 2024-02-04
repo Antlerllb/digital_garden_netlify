@@ -23,6 +23,8 @@
 - [[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
 - [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
 - [[1-Project/2024-美赛/LSTM公式\|LSTM公式]]
+- [[1-Project/2024-美赛/Logit公式\|Logit公式]]
+- [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
 
 { .block-language-dataview}
 # 6 画图版
