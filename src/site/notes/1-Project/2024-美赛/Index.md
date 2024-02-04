@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -45,10 +45,11 @@
 ## 6.3 草稿
 - [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
 - [[1-Project/2024-美赛/平击球、挥刀球、踢球\|平击球、挥刀球、踢球]]
+- 补充问题1的引用
 - model 3的子图：现实球、抽象球、有路线的球场（篮球、足球、羽毛球）
 - model 3的实验结果
 # 7 Todo
-- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
+- [[1-Project/2024-美赛/Model I\|Model I]]
 
 { .block-language-dataview}
