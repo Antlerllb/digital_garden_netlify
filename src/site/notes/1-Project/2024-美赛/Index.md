@@ -29,11 +29,10 @@
 - [[1-Project/2024-美赛/投篮可视化\|投篮可视化]]
 - [[1-Project/2024-美赛/数据归一化示意图\|数据归一化示意图]]
 - [[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]]
-- [[1-Project/2024-美赛/比赛过程可视化-条形图\|比赛过程可视化-条形图]]
 - [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 - [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
-- [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
 - [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
+- [[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
 
 { .block-language-dataview}
 ## 6.2 LH
@@ -49,8 +48,8 @@
 ## 6.4 归档
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
+- [[1-Project/2024-美赛/Model II\|Model II]]
 - [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
-- [[1-Project/2024-美赛/Model II\|Model II]]
 
 { .block-language-dataview}
