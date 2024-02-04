@@ -12,15 +12,15 @@ Table: Multiagent Ball Games Dataset Overview
 | ---- | ---- | ---- |
 | Basketball | NBA[^2] | Player Metrics Data, Performance Statistics, Physical Activity Records |
 | Football | San Jose (SJ) Earthquakes[^1] | (x, y)-player position data and log of all 1v1 situations |
-| Badminton | ShuttleSet22[^3] | Badminton Rally, Player Movements Data, Shot Analysis Records |
+|  |  |  |
 [^1]: https://www.sjearthquakes.com/
 [^2]: https://zenodo.org/records/8056757
-[^3]: https://github.com/wywywang/coachai-projects
+
 
 #Todo 文字描述
 Figure: 
 [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
-[[1-Project/2024-美赛/投篮可视化\|投篮可视化]] +  [[1-Project/2024-美赛/箭头可视化\|箭头可视化]]
+[[1-Project/2024-美赛/投篮可视化\|投篮可视化]] +  [[箭头可视化\|箭头可视化]]
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Badminton
 以篮球为例
 [[1-Project/2024-美赛/Model 3 实验结果\|Model 3 实验结果]]
