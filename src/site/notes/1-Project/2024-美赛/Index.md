@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/"}
 ---
 
 # 1 报名与账号
@@ -18,10 +18,6 @@
 - [[1-Project/2024-美赛/网球知识\|网球知识]]
 - [[1-Project/2024-美赛/数据字段\|数据字段]]
 # 5 公式
-- [[1-Project/2024-美赛/Sequence Encoder公式\|Sequence Encoder公式]]
-- [[1-Project/2024-美赛/Sequence Prior公式\|Sequence Prior公式]]
-- [[1-Project/2024-美赛/Sequence Decoder公式\|Sequence Decoder公式]]
-- [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
 - [[1-Project/2024-美赛/LSTM公式\|LSTM公式]]
 - [[1-Project/2024-美赛/Logit公式\|Logit公式]]
 - [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
@@ -30,7 +26,6 @@
 { .block-language-dataview}
 # 6 画图版
 ## 6.1 ZST
-- [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 - [[1-Project/2024-美赛/网球可视化\|网球可视化]]
 - [[1-Project/2024-美赛/球场可视化\|球场可视化]]
 - [[1-Project/2024-美赛/Model I 概念解释图\|Model I 概念解释图]]
@@ -56,11 +51,12 @@
 - [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
 - [[1-Project/2024-美赛/平击球、挥刀球、踢球\|平击球、挥刀球、踢球]]
 - [[1-Project/2024-美赛/移动路径图\|移动路径图]]
-- 
 - model 3的实验结果：用数据集的字段
+## 6.4 归档
+- [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
-- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
-- [[1-Project/2024-美赛/Model III\|Model III]]
+- [[1-Project/2024-美赛/Model I\|Model I]]
+- [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
 
 { .block-language-dataview}
