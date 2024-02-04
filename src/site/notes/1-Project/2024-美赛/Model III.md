@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/1-Project/2024-美赛/Model III/"}
 ---
 
-# 1 Model Generalization: Momentum in Multiagent Ball Games
-## 1.1 Shared Modeling Elements Across Ball Games
+# 1 Model Generalization: Shared Momentum in Multiagent Ball Games
+## 1.1 Three Dimensional Kinematics: Spherical Object and Instantaneous Actions
 In this section, we focus on the generalization of the momentum concept across various ball games, namely basketball, football, and badminton. The data collection process involves obtaining datasets from different games, each offering unique insights into player dynamics and game characteristics.
 
 Table: Multiagent Ball Games Dataset Overview
@@ -20,7 +20,7 @@ Table: Multiagent Ball Games Dataset Overview
 #Todo 文字描述
 Figure: 
 [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
-## 1.2 Result of Task 4: 
+## 1.2 Result of Task 4: Generalization For Basketball, Football and Badminton
 以篮球为例
 [[1-Project/2024-美赛/Model 3 实验结果\|Model 3 实验结果]]
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
