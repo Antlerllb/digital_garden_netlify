@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -49,5 +49,6 @@
 # 7 Todo
 - [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
+- [[1-Project/2024-美赛/Hierarchical Clustering\|Hierarchical Clustering]]
 
 { .block-language-dataview}
