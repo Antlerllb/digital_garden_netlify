@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -48,5 +48,6 @@
 - model 3的实验结果
 # 7 Todo
 - [[1-Project/2024-美赛/Model I\|Model I]]
+- [[1-Project/2024-美赛/Model II\|Model II]]
 
 { .block-language-dataview}
