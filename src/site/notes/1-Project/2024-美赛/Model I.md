@@ -36,12 +36,17 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 
 ## 2.2 Result of Task 1: Player's Momentum
 #Todo 实验结果的描述
-[[1-Project/2024-美赛/Model I 实验结果表\|Model I 实验结果表]]
-#Todo 直方图描述
-[[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
-#Todo 比赛可视化描述
 
-## 2.3 Result of Task 2: 
+Table: Performance Evaluation Metrics for Various Models in Momentum Prediction
+[[1-Project/2024-美赛/Model I 实验结果表\|Model I 实验结果表]]
+
+The data visualized in the plot represents the momentum of tennis players during the 2023 Wimbledon tournament. The momentum is illustrated in two aspects: within each game and the total momentum accumulated by each player throughout the entire event.
+[[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
+
+#Todo 比赛可视化描述
+[[1-Project/2024-美赛/比赛过程可视化-条形图\|比赛过程可视化-条形图]]
+
+## 2.3 Result of Task 2: Boost in Player Performance by Momentum Gain
 This article visually depicts the trends in "Momentum," "Ace," "Net_pt_won," "Double Fault," and "Unforced Error" over different points in a tennis match. This comprehensive visualization allows for a holistic analysis of player performance dynamics, considering multiple performance metrics simultaneously.
 
 Figure: Boost in Player Performance by Momentum Gain
@@ -54,10 +59,11 @@ Figure: Drop in Player Performance by Momentum Loss
 
 #Todo 下降的描述
 
-#Todo 描述图表并排
+In exploring the dynamics of Wimbledon 2023, we delve into two pivotal facets: the Player Face-off Network and the Player Momentum Overview. #Todo 描述图表并排
 
 Figure: Player Face-off Network For Wimbledon 2023
 Table: Player Momentum Overview For Wimbledon 2023
 [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
+
 
 [^1]: Song, H., Li, Y., Zou, X., Hu, P., & Liu, T. (2023). Elite male table tennis matches diagnosis using SHAP and a hybrid LSTM–BPNN algorithm. _Scientific Reports_, _13_(1), 11533.
