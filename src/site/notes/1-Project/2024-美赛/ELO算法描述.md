@@ -8,4 +8,4 @@
 #公式 
 ![5-Attachment/Image/ELO算法描述-20240204.png](/img/user/5-Attachment/Image/ELO%E7%AE%97%E6%B3%95%E6%8F%8F%E8%BF%B0-20240204.png)
 
-[^1]: Gollub, Jacob. Forecasting Serve Performance in Professional Tennis Matches. 1 Jan. 2021 : 223 – 233.
+[^1]: Gollub, J. (2021). Forecasting serve performance in professional tennis matches. _Journal of Sports Analytics_, _7_(4), 223-233.
