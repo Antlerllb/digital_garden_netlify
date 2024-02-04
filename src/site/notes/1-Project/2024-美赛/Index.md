@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/"}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["gardenEntry"]}
 ---
 
 # 1 报名与账号
