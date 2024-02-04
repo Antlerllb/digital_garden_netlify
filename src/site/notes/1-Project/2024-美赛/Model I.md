@@ -42,13 +42,15 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 #Todo 比赛可视化描述
 [[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
 ## 2.3 Result of Task 2: 
-
 This article visually depicts the trends in "Momentum," "Ace," "Net_pt_won," "Double Fault," and "Unforced Error" over different points in a tennis match. This comprehensive visualization allows for a holistic analysis of player performance dynamics, considering multiple performance metrics simultaneously.
+
 Figure: Boost in Player Performance by Momentum
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
-Both "Ace" and "Net_pt_won" show positive correlations with the momentum, indicating that as the match advances, players tend to deliver more aces and achieve success in winning points at the net. This suggests a strong connection between momentum and the enhanced performance of players in terms of ace delivery and net points won.
-#Todo 下降的图
 
+Both "Ace" and "Net_pt_won" show positive correlations with the momentum, indicating that as the match advances, players tend to deliver more aces and achieve success in winning points at the net. This suggests a strong connection between momentum and the enhanced performance of players in terms of ace delivery and net points won.
+#Todo 下降的描述
+#Todo 下降的图
+#Todo 描述
 [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
 
 
