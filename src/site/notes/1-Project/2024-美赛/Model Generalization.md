@@ -20,7 +20,8 @@ Table: Multiagent Ball Games Dataset Overview
 #Todo 文字描述
 Figure: 
 [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
-[[1-Project/2024-美赛/投篮可视化\|投篮可视化]] +  [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
+[[1-Project/2024-美赛/投篮可视化\|投篮可视化]] + [[1-Project/2024-美赛/宽度深度-动量泛化\|宽度深度-动量泛化]]
+[[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Table Tennis
 [[1-Project/2024-美赛/Model 3 实验结果\|Model 3 实验结果]]
 以篮球为例
