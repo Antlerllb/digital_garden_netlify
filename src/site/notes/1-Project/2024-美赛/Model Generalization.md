@@ -23,6 +23,7 @@ Figure:
 [[1-Project/2024-美赛/投篮可视化\|投篮可视化]] + [[1-Project/2024-美赛/宽度深度-动量泛化\|宽度深度-动量泛化]]
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Table Tennis
+#Todo 改上面的小标题
 [[1-Project/2024-美赛/Model 3 实验结果\|Model 3 实验结果]]
 以篮球为例
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
