@@ -19,5 +19,6 @@ The probability that a tennis player exhibits a particular momentum outcome (e.g
 [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
 ## 2.2 Result of Task 3: Swings in the Match
 使用至少一场比赛提供的数据
+[[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
 [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
-[[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
+以match为单位
