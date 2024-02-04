@@ -40,7 +40,7 @@ Figure: Bi-LSTMs Sequence Model For Tennis Prediction
 ## 2.3 Result of Task 1: Player's Momentum
 数据
 [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
-[[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]]
+[[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
 ## 2.4 Result of Task 2: 
 [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
 #Todo 体现后半段表现更好
