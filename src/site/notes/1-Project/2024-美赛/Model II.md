@@ -8,7 +8,7 @@
 	- Multinomial Logit
 	- Klaassen-Magnus elo ratings
 	- Win Pro
-- 回答：
+- 回答：使用至少一场比赛提供的数据
 - prompt：我正在建模网球比赛的Klaassen-Magnus elo rating，输入数据包含2个玩家的timesteps, momentum, won_sets, won_games, won_points, serve_width, serve_depth, double_err, unf_err等。我希望这个模型中包含Barnett-Clarke 公式、Efron-Morris 估计量、Klaassen-Magnus elo 评分。请给我具体算法和建模流程。
 # 2 Model II: Klaassen-Magnus ELO Ratings For Swing Prediction
 ## 2.1 ELO Rating Algorithm
@@ -18,7 +18,10 @@ The probability that a tennis player exhibits a particular momentum outcome (e.g
 [[1-Project/2024-美赛/ELO算法描述\|ELO算法描述]]
 [[1-Project/2024-美赛/Klaassen-Magnus ELO Ratings算法 v2\|Klaassen-Magnus ELO Ratings算法 v2]]
 ## 2.2 Result of Task 3: Swings in the Match
-使用至少一场比赛提供的数据
-[[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
+
+
+Figure: 
+[[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]] + [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]（要体现swing, 以match为单位）
+
+
 [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
-以match为单位
