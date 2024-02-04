@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/2024-美赛/Index/","tags":["#比赛","#数模","gardenEntry"]}
 ---
 
 # 1 报名与账号
@@ -38,17 +38,20 @@
 - [[1-Project/2024-美赛/比赛过程可视化\|比赛过程可视化]]
 - [[1-Project/2024-美赛/数据归一化示意图\|数据归一化示意图]]
 - [[1-Project/2024-美赛/球员表现图表并排\|球员表现图表并排]]
+- [[1-Project/2024-美赛/模型泛化示意图\|模型泛化示意图]]
+- [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
+- [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 ## 6.2 LH
 - [[1-Project/2024-美赛/变量聚类图\|变量聚类图]]
 - [[1-Project/2024-美赛/Momentum直方图\|Momentum直方图]]
 - [[1-Project/2024-美赛/平均得分热图\|平均得分热图]]
 - [[1-Project/2024-美赛/球员雷达图\|球员雷达图]]
+- [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
 ## 6.3 草稿
 - [[1-Project/2024-美赛/平局马尔可夫链\|平局马尔可夫链]]
 - [[1-Project/2024-美赛/平击球、挥刀球、踢球\|平击球、挥刀球、踢球]]
 - [[1-Project/2024-美赛/移动路径图\|移动路径图]]
 - 补充问题1的引用
-- model 3的子图：现实球、抽象球、有路线的球场（篮球、足球、羽毛球）
 - model 3的实验结果
 # 7 Todo
 - [[1-Project/2024-美赛/Model I\|Model I]]
