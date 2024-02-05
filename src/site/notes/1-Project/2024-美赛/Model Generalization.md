@@ -3,7 +3,7 @@
 ---
 
 # 1 Model Generalization: Shared Momentum in Multiagent Ball Games
-## 1.1 Three Dimensional Kinematics: Spherical Object and Instantaneous Actions
+## 1.1 Three Dimensional Kinematics: Spherical Object and Attacker-defender Dribble Model
 In this section, we focus on the generalization of the momentum concept across various ball games, namely basketball, football, and table tennis. The data collection process involves obtaining datasets from different games, each offering unique insights into player dynamics and game characteristics.
 
 Table: Multiagent Ball Games Dataset Overview
@@ -14,7 +14,7 @@ Table: Multiagent Ball Games Dataset Overview
 | Football | San Jose (SJ) Earthquakes[^1] | (x, y)-player position data, Log of all 1v1 situations |
 | Table Tennis | OSAI[^3] | Players' potential features, In-match statistics |
 
-**Spherical Object Kinematics**: Angular momentum ($L$) is a vector quantity representing the rotational motion of an object. It is the product of the moment of inertia ($I$ ) and the angular velocity ($ω$) of the object. It provides a quantitative measure of the rotational motion of the object and is crucial in understanding the dynamics of various sports activities such as basketball, football, table tennis, and tennis.
+**Spherical Object Kinematics**[^4]: Angular momentum ($L$) is a vector quantity representing the rotational motion of an object. It is the product of the moment of inertia ($I$ ) and the angular velocity ($ω$) of the object. It provides a quantitative measure of the rotational motion of the object and is crucial in understanding the dynamics of various sports activities such as basketball, football, table tennis, and tennis.
 
 Figure: Flow Chart of Angular Momentum Calculation
 [[1-Project/2024-美赛/角动量流程图\|角动量流程图]]
@@ -24,9 +24,9 @@ In various sports like basketball, football, table tennis, and tennis, the conce
 Figure: Angular Momentum in Multiagent Ball Games
 [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
 
-#Todo 描述
+**Attacker-defender Dribble Model**[^5]: #Todo 描述
 
-Figure: 
+Figure: Attacker-defender Dribble Model
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 Figure: 
@@ -45,3 +45,5 @@ Figure:
 [^1]: https://www.sjearthquakes.com/
 [^2]: https://zenodo.org/records/8056757
 [^3]: https://osai.ai
+[^4]: Opatrný, T., Richterek, L., & Opatrný, M. (2018). Analogies of the classical Euler top with a rotor to spin squeezing and quantum phase transitions in a generalized Lipkin-Meshkov-Glick model. _Scientific Reports_, _8_(1), 1984.
+[^5]: Brink, L., Ha, S. K., Snowdon, J., Vidal-Codina, F., Rauch, B., Wang, F., … & Hosoi, A. E. (2023). Measuring skill via player dynamics in football dribbling. _Scientific Reports_, _13_(1), 19004.
