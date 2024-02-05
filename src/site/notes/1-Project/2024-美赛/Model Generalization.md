@@ -47,7 +47,9 @@ Figure: Swing Between Players In Basketball Matches
 Before the exchange, the matchup featured Hector Bellerin against Mat Ryan. Following the swap, Rob Holding replaced Hector Bellerin, facing Mat Ryan.
 The strategic substitution not only influenced the momentum of the Attacker but also played a role in the ELO ratings and ultimately reflected in the Attacker's improved score. This astute management of momentum showcases the Attacker's proactive approach to leveraging key moments for a competitive advantage, resulting in a noteworthy turnaround in the game.
 
-#Todo 文字描述
+
+The bar chart below depicts performance disparities in different sports such as basketball, football, table tennis, and tennis, emphasizing specific play attributes. The patterns within the chart highlight the significant impact of momentum on performance across a variety of sports. Notably, the bars with momentum consistently demonstrate a positive impact on performance, emphasizing the overarching influence of momentum on players' abilities in different sports.
+
 Figure: Unveiling Performance Disparities in Basketball, Football, Table Tennis, and Tennis
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
 
