@@ -44,9 +44,9 @@
 ## 6.4 归档
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
-- [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
-- [[1-Project/2024-美赛/Our Work\|Our Work]]
-- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Model II\|Model II]]
+- [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
+- [[1-Project/2024-美赛/Model I\|Model I]]
+- [[1-Project/2024-美赛/Our Work\|Our Work]]
 
 { .block-language-dataview}
