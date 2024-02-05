@@ -39,11 +39,16 @@ Figure: Attacker-defender Dribble Model For Overall Match
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 ## 1.3 Result of Task 4: Generalization For Basketball, Football and Table Tennis
-#Todo 文字描述
+In the forthcoming analysis, we delve into the intriguing interplay between momentum and ELO rating in basketball matches
+
 Figure: Swing Between Players In Basketball Matches
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 
+Before the exchange, the matchup featured Hector Bellerin against Mat Ryan. Following the swap, Rob Holding replaced Hector Bellerin, facing Mat Ryan.
+The strategic substitution not only influenced the momentum of the Attacker but also played a role in the ELO ratings and ultimately reflected in the Attacker's improved score. This astute management of momentum showcases the Attacker's proactive approach to leveraging key moments for a competitive advantage, resulting in a noteworthy turnaround in the game.
+
 #Todo 文字描述
+Figure: Unveiling Performance Disparities in Basketball, Football, Table Tennis, and Tennis
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
 
 #Todo 文字描述
