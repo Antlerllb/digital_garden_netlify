@@ -31,11 +31,11 @@ By employing masks to filter out unobservable actions, the model can focus on th
 [[1-Project/2024-美赛/Model I 总公式\|Model I 总公式]]
 This model leverages the tennis match information captured by the Bi-LSTM encoder, incorporates latent variables through the sequence prior, and generates output sequences using the sequence decoder. The training involves maximizing the log-likelihood of the observed data.
 
-Figure: Bi-LSTMs Sequence Model For Tennis Prediction
+Figure: Bi-LSTMs Sequence Model For Momentum Prediction
 [[1-Project/2024-美赛/Model I 模型图\|Model I 模型图]]
 
 ## 2.2 Result of Task 1: Player's Momentum Trends
-#Todo 实验结果的描述
+The experimental results demonstrate the performance of various models in terms of $L2$ (Mean), $L2$ (Min), and Pitch control MAE. Among the evaluated models, our proposed Bi-LSTMs Sequence Model stands out with the most favorable outcomes. It achieves the lowest $L2$ (Mean) and $L2$ (Min) values, as well as the minimal Pitch control MAE, indicating superior accuracy and precision compared to other models.
 
 Table: Performance Evaluation Metrics for Various Models in Momentum Prediction
 [[1-Project/2024-美赛/Model I 实验结果表\|Model I 实验结果表]]
