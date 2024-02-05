@@ -38,15 +38,15 @@ Figure: Attacker-defender Dribble Model For Overall Match
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Table Tennis
-
-
+#Todo 文字描述
+Figure: Swing Between Players In Basketball Matches
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 
 #Todo 文字描述
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
 
-
-Table: 
+#Todo 文字描述
+Table: Error Analysis
 [[1-Project/2024-美赛/误差分析表\|误差分析表]]
 
 
