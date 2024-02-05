@@ -26,8 +26,6 @@
 { .block-language-dataview}
 # 6 画图版 Todo
 ## 6.1 ZST
-- [[1-Project/2024-美赛/投篮可视化\|投篮可视化]]
-- [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 
 { .block-language-dataview}
 ## 6.2 LH
@@ -45,7 +43,6 @@
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
 - [[1-Project/2024-美赛/Model II\|Model II]]
-- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Our Work\|Our Work]]
 - [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
 
