@@ -27,12 +27,14 @@ Figure: Angular Momentum in Multiagent Ball Games
 For instance, I advocate for the generalization capability of a Momentum prediction model developed for tennis matches to basketball games. In this context, I consider the basketball Shot Depth as analogous to the Serve Depth in Tennis, the Shot Height as equivalent to the Serve Width in Tennis, and the Shot Velocity as comparable to the Speed Mph in Tennis. This cross-domain mapping allows us to leverage insights from tennis momentum modeling and apply them to basketball scenarios, providing a foundation for a more versatile predictive model across different sports.
 
 Figure: Action Simulation For Single Basketball Player
+(1) Apply Tennis Momentum In Basketball Scenarios
+(2) Positive Correlation Between Pass Distance and Momentum
 [[1-Project/2024-美赛/投篮可视化\|投篮可视化]] + [[1-Project/2024-美赛/宽度深度-动量泛化\|宽度深度-动量泛化]]
 
 In addition to the impact of shooting actions on momentum, we are also considering the role of passing actions. Using a 3D heatmap, with Shoot Distance as a control variable, we aim to model the relationship between Pass Distance and Momentum. The results indicate a positive correlation, highlighting the influence of passing actions on the overall momentum in both basketball and tennis scenarios.
 **Attacker-defender Dribble Model**[^5]: We are currently developing a generalized model applicable to basketball, soccer, tennis, and table tennis. Within this framework, we abstract the competing entities into two primary roles: "Attacker" and "Defender." Our model attributes three force components to the Attacker: Attraction to the goal, Repulsion by the defender, and Physiological resistance, resulting in the calculation of the Overall Attacker Momentum. Simultaneously, the Defender is characterized by three force components: Attraction to the goal, Attraction to the attacker, and Physiological resistance, culminating in the computation of the Overall Defender Momentum. This unified modeling approach allows us to capture the momentum dynamics between attackers and defenders across diverse sports.
 
-Figure: Attacker-defender Dribble Model
+Figure: Attacker-defender Dribble Model For Overall Match
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Table Tennis
@@ -40,12 +42,8 @@ Figure: Attacker-defender Dribble Model
 
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 
-
+#Todo 文字描述
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
-
-
-
-
 
 
 Table: 
