@@ -49,6 +49,7 @@ For instance, Carlos Alcaraz's momentum during the 2023 Wimbledon tournament exh
 Comparing his total momentum (4.9) with other players reveals that Alcaraz performs better than Alexander Zverev (total momentum: 4.64) but slightly falls short of Frances Tiafoe (total momentum: 5.65). This suggests a competitive performance but with room for improvement.
 
 #Todo 比赛可视化描述
+Figure: Visualization for 2023-wimbledon-1301 Match Between Carlos Alcaraz and Nicolas Jarry
 [[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
 
 ## 2.3 Result of Task 2: Boost in Player Performance by Momentum Gain
