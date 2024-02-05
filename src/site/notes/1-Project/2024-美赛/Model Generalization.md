@@ -36,10 +36,19 @@ Figure: Attacker-defender Dribble Model
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 ## 1.2 Result of Task 4: Generalization For Basketball, Football and Table Tennis
-[[1-Project/2024-美赛/Model 3 实验结果\|Model 3 实验结果]]
-以篮球为例
+
+
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
+
+
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
+
+
+
+
+
+
+Table: 
 [[1-Project/2024-美赛/误差分析表\|误差分析表]]
 
 
