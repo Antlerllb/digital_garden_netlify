@@ -31,7 +31,6 @@
 - [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
 - [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 - [[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
-- [[1-Project/2024-美赛/角动量流程图\|角动量流程图]]
 
 { .block-language-dataview}
 ## 6.2 LH
@@ -49,7 +48,7 @@
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
 - [[1-Project/2024-美赛/Model II\|Model II]]
-- [[1-Project/2024-美赛/Model I\|Model I]]
 - [[1-Project/2024-美赛/Our Work\|Our Work]]
+- [[1-Project/2024-美赛/Model I\|Model I]]
 
 { .block-language-dataview}
