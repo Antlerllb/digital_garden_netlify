@@ -48,7 +48,8 @@ Figure: Histogram of Momentum Trends and Total Performance
 For instance, Carlos Alcaraz's momentum during the 2023 Wimbledon tournament exhibits fluctuations across various games. Notably, in the match "2023-wimbledon-1301," Game 2 stands out with the highest momentum (0.9038), while Game 7 reflects the lowest momentum (0.0095). Overall, Alcaraz maintains a moderate to high level of total momentum, demonstrating consistency throughout the competition.
 Comparing his total momentum (4.9) with other players reveals that Alcaraz performs better than Alexander Zverev (total momentum: 4.64) but slightly falls short of Frances Tiafoe (total momentum: 5.65). This suggests a competitive performance but with room for improvement.
 
-#Todo 比赛可视化描述
+In the 2023-wimbledon-1301 match between Carlos Alcaraz and Nicolas Jarry, the game started evenly with both players scoring points in the early sets. However, as the match progressed, a notable pattern emerged. Carlos Alcaraz demonstrated a consistent and increasing momentum, securing critical points and maintaining a strong performance. On the other hand, Nicolas Jarry faced challenges, leading to missed opportunities, especially during crucial moments. Alcaraz's momentum and strategy play a crucial role in shaping the dynamics of the match, ultimately influencing the outcome in his favor.
+
 Figure: Visualization for 2023-wimbledon-1301 Match Between Carlos Alcaraz and Nicolas Jarry
 [[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
 
