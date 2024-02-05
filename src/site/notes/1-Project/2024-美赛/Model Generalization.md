@@ -39,7 +39,7 @@ Figure: Attacker-defender Dribble Model For Overall Match
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
 
 ## 1.3 Result of Task 4: Generalization For Basketball, Football and Table Tennis
-In the forthcoming analysis, we delve into the intriguing interplay between momentum and ELO rating in basketball matches
+In the forthcoming analysis, we delve into the intriguing interplay between momentum and ELO rating in basketball matches.
 
 Figure: Swing Between Players In Basketball Matches
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
@@ -51,10 +51,13 @@ The strategic substitution not only influenced the momentum of the Attacker but 
 Figure: Unveiling Performance Disparities in Basketball, Football, Table Tennis, and Tennis
 [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
 
-#Todo 文字描述
+The table below displays the predicted total and correct predictions for various player categories in different sports. An error analysis was conducted to evaluate the accuracy of the win predictions.
+
 Table: Error Analysis
 [[1-Project/2024-美赛/误差分析表\|误差分析表]]
 
+The win predictions for various player categories across different sports are consistently accurate, with most categories achieving accuracy levels close to or exceeding 90%. Notably, the accuracy for "Defensive Stalwarts" is comparatively lower at 89.97%. One potential reason for this discrepancy could be the complexity in capturing defensive prowess, which involves nuanced skills and strategies that may not be fully represented in the current model.
+To overcome this, we aim to expand our dataset to include richer and more detailed defensive performance metrics, such as successful tackles, interceptions, and defensive positioning. We remain committed to refining our model to ensure its effectiveness across diverse player profiles, and we believe that incorporating these detailed defensive metrics will significantly enhance our predictive capabilities.
 
 [^1]: https://www.sjearthquakes.com/
 [^2]: https://zenodo.org/records/8056757
