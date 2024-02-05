@@ -29,9 +29,6 @@
 
 { .block-language-dataview}
 ## 6.2 LH
-- [[1-Project/2024-美赛/运动效果对比图\|运动效果对比图]]
-- [[1-Project/2024-美赛/敏感性分析图\|敏感性分析图]]
-- [[1-Project/2024-美赛/鲁棒性分析图\|鲁棒性分析图]]
 
 { .block-language-dataview}
 ## 6.3 草稿
@@ -43,5 +40,6 @@
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
 - [[1-Project/2024-美赛/Model II\|Model II]]
+- [[1-Project/2024-美赛/Memo-Suggestions\|Memo-Suggestions]]
 
 { .block-language-dataview}
