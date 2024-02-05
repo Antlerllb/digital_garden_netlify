@@ -25,6 +25,7 @@ Figure: Angular Momentum in Multiagent Ball Games
 [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
 
 
+
 Figure: Action Simulation For Single Basketball Player
 [[1-Project/2024-美赛/投篮可视化\|投篮可视化]] + [[1-Project/2024-美赛/宽度深度-动量泛化\|宽度深度-动量泛化]]
 
