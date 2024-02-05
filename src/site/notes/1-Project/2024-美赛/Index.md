@@ -43,6 +43,5 @@
 - [[1-Project/2024-美赛/Klaassen-Magnus算法\|Klaassen-Magnus算法]]
 # 7 Todo
 - [[1-Project/2024-美赛/Model II\|Model II]]
-- [[1-Project/2024-美赛/Our Work\|Our Work]]
 
 { .block-language-dataview}
