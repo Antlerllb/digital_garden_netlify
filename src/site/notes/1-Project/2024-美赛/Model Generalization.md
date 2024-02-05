@@ -14,8 +14,11 @@ Table: Multiagent Ball Games Dataset Overview
 | Football | San Jose (SJ) Earthquakes[^1] | (x, y)-player position data, Log of all 1v1 situations |
 | Table Tennis | OSAI[^3] | Players' potential features, In-match statistics |
 
-**Spherical Object Kinematics**: Angular momentum ($L$) is a vector quantity representing the rotational motion of an object. It is the product of the moment of inertia ($I$ ) and the angular velocity ($ω$) of the object.
+**Spherical Object Kinematics**: Angular momentum ($L$) is a vector quantity representing the rotational motion of an object. It is the product of the moment of inertia ($I$ ) and the angular velocity ($ω$) of the object. It provides a quantitative measure of the rotational motion of the object and is crucial in understanding the dynamics of various sports activities such as basketball, football, table tennis, and tennis.
+
+Figure: Flow Chart of Angular Momentum Calculation
 [[1-Project/2024-美赛/角动量流程图\|角动量流程图]]
+
 In various sports like basketball, football, table tennis, and tennis, the concept of angular momentum is integral. When players shoot, kick, or hit the ball with a spinning motion, angular momentum comes into play. The moment of inertia, influenced by the distribution of mass within the ball, determines the magnitude of angular momentum. This spinning motion significantly impacts the trajectory and behavior of the ball, emphasizing the role of angular momentum in shaping the outcome of plays in these sports.
 
 Figure: Angular Momentum in Multiagent Ball Games
@@ -23,7 +26,9 @@ Figure: Angular Momentum in Multiagent Ball Games
 
 #Todo 描述
 
+Figure: 
 [[1-Project/2024-美赛/泛化模型解释图\|泛化模型解释图]]
+
 Figure: 
 [[1-Project/2024-美赛/投篮可视化\|投篮可视化]] + [[1-Project/2024-美赛/宽度深度-动量泛化\|宽度深度-动量泛化]]
 
