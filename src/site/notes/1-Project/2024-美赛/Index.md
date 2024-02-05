@@ -27,10 +27,7 @@
 # 6 画图版 Todo
 ## 6.1 ZST
 - [[1-Project/2024-美赛/投篮可视化\|投篮可视化]]
-- [[1-Project/2024-美赛/比赛过程可视化-密度图\|比赛过程可视化-密度图]]
-- [[1-Project/2024-美赛/泛化的球和球场图\|泛化的球和球场图]]
 - [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
-- [[1-Project/2024-美赛/比赛过程可视化-折线图\|比赛过程可视化-折线图]]
 
 { .block-language-dataview}
 ## 6.2 LH
@@ -50,5 +47,6 @@
 - [[1-Project/2024-美赛/Model II\|Model II]]
 - [[1-Project/2024-美赛/Our Work\|Our Work]]
 - [[1-Project/2024-美赛/Model I\|Model I]]
+- [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
 
 { .block-language-dataview}
