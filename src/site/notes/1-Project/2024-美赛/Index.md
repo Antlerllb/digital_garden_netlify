@@ -53,6 +53,5 @@
 # 7 Todo
 - [[1-Project/2024-美赛/Model II\|Model II]]
 - [[1-Project/2024-美赛/Model I\|Model I]]
-- [[1-Project/2024-美赛/Model Generalization\|Model Generalization]]
 
 { .block-language-dataview}
