@@ -41,10 +41,13 @@ Figure: Attacker-defender Dribble Model For Overall Match
 ## 1.3 Result of Task 4: Generalization For Basketball, Football and Table Tennis
 In the forthcoming analysis, we delve into the intriguing interplay between momentum and ELO rating in basketball matches.
 
+修改人名 Jordan Goodwin(Hector Bellerin), Nassir Little(Mat Ryan)
+Mitchell Robinson(Rob Holding)
+
 Figure: Swing Between Players In Basketball Matches
 [[1-Project/2024-美赛/篮球战局图\|篮球战局图]]
 
-Before the exchange, the matchup featured Hector Bellerin against Mat Ryan. Following the swap, Rob Holding replaced Hector Bellerin, facing Mat Ryan.
+Before the exchange, the matchup featured Jordan Goodwin against Nassir Little. Following the swap, Mitchell Robinson replaced Jordan Goodwin, facing Nassir Little.
 The strategic substitution not only influenced the momentum of the Attacker but also played a role in the ELO ratings and ultimately reflected in the Attacker's improved score. This astute management of momentum showcases the Attacker's proactive approach to leveraging key moments for a competitive advantage, resulting in a noteworthy turnaround in the game.
 
 The bar chart below depicts performance disparities in different sports such as basketball, football, table tennis, and tennis, emphasizing specific play attributes. The patterns within the chart highlight the significant impact of momentum on performance across a variety of sports. Notably, the bars with momentum consistently demonstrate a positive impact on performance, emphasizing the overarching influence of momentum on players' abilities in different sports.
