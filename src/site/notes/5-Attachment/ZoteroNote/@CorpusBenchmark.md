@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@CorpusBenchmark/","title":"Corpus and Benchmark Towards Indonesian Language Development Assessment"}
+---
+
+# Corpus and Benchmark Towards Indonesian Language Development Assessment
+## Link
+- Item: [item](zotero://select/library/items/S3JZWZLM)
+- File: [CorpusBenchmark.pdf](zotero://open-pdf/library/items/U856LPTR)
+## Abstract
+Recently, the field of language acquisition (LA) has significantly benefited from natural language processing technologies. A crucial task in LA involves tracking the evolution of language learners’ competence, namely language development assessment (LDA). However, the majority of LDA research focuses on high-resource languages, with limited attention directed toward low-resource languages. Moreover, existing methodologies primarily depend on linguistic rules and language characteristics, with limited exploration of exploiting pre-trained language models (PLMs) for LDA. In this paper, we present the IndoCL corpus (Indonesian Corpus of L2 Learners), which comprises compositions written by undergraduate students majoring in Indonesian language. Moreover, we propose a model for LDA tasks, which automatically extracts language-independent features, relieving laborious computation and reliance on specific language. The proposed model uses sequential information attention and similarity representation learning to capture the differences and common information from the first-written and second-written essays, respectively. It has demonstrated remarkable performance on both our self-constructed corpus and publicly available corpora. Therefore, it can be considered as a novel benchmark for LDA tasks. Furthermore, we investigate the feasibility of utilizing existing large-scale language models (LLMs) for LDA tasks. The results demonstrate significant potential for enhancing the performance of large-scale language models in LDA tasks.
