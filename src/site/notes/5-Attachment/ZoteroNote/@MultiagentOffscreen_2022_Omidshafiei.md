@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@MultiagentOffscreen_2022_Omidshafiei/","title":"Multiagent off-screen behavior prediction in football"}
 ---
 
-# 1 Multiagent off-screen behavior prediction in football
-## 1.1 Link
-- url: https://www.nature.com/articles/s41598-022-12547-0
-- item: [item](zotero://select/library/items/G7LXJT5U)
-- file: [zotero.pdf](zotero://open-pdf/library/items/LTHIJ5F9); [译文.pdf](zotero://open-pdf/library/items/PLGK6XGN)
-## 1.2 Abstract
+# Multiagent off-screen behavior prediction in football
+## Link
+- Url: https://www.nature.com/articles/s41598-022-12547-0
+- Item: [item](zotero://select/library/items/G7LXJT5U)
+- File: [zotero.pdf](zotero://open-pdf/library/items/LTHIJ5F9); [译文.pdf](zotero://open-pdf/library/items/PLGK6XGN)
+## Abstract
 In multiagent worlds, several decision-making individuals interact while adhering to the dynamics constraints imposed by the environment. These interactions, combined with the potential stochasticity of the agents’ dynamic behaviors, make such systems complex and interesting to study from a decision-making perspective. Significant research has been conducted on learning models for forward-direction estimation of agent behaviors, for example, pedestrian predictions used for collision-avoidance in self-driving cars. In many settings, only sporadic observations of agents may be available in a given trajectory sequence. In football, subsets of players may come in and out of view of broadcast video footage, while unobserved players continue to interact off-screen. In this paper, we study the problem of multiagent time-series imputation in the context of human football play, where available past and future observations of subsets of agents are used to estimate missing observations for other agents. Our approach, called the Graph Imputer, uses past and future information in combination with graph networks and variational autoencoders to enable learning of a distribution of imputed trajectories. We demonstrate our approach on multiagent settings involving players that are partially-observable, using the Graph Imputer to predict the behaviors of off-screen players. To quantitatively evaluate the approach, we conduct experiments on football matches with ground truth trajectory data, using a camera module to simulate the off-screen player state estimation setting. We subsequently use our approach for downstream football analytics under partial observability using the well-established framework of pitch control, which traditionally relies on fully observed data. We illustrate that our method outperforms several state-of-the-art approaches, including those hand-crafted for football, across all considered metrics.
