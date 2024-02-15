@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@MatchPadInteractive_2012_Legg/","title":"MatchPad: Interactive Glyph-Based Visualization for Real-Time Sports Performance Analysis"}
+---
+
+# MatchPad: Interactive Glyph-Based Visualization for Real-Time Sports Performance Analysis
+## Link
+- Url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03118.x
+- Item: [item](zotero://select/library/items/K2RBHBBP)
+- File: [Snapshot](zotero://open-pdf/library/items/2TU4IWSH)
+## Abstract
+Today real-time sports performance analysis is a crucial aspect of matches in many major sports. For example, in soccer and rugby, team analysts may annotate videos during the matches by tagging specific actions and events, which typically result in some summary statistics and a large spreadsheet of recorded actions and events. To a coach, the summary statistics (e.g., the percentage of ball possession) lacks sufficient details, while reading the spreadsheet is time-consuming and making decisions based on the spreadsheet in real-time is thereby impossible. In this paper, we present a visualization solution to the current problem in real-time sports performance analysis. We adopt a glyph-based visual design to enable coaching staff and analysts to visualize actions and events “at a glance”. We discuss the relative merits of metaphoric glyphs in comparison with other types of glyph designs in this particular application. We describe an algorithm for managing the glyph layout at different spatial scales in interactive visualization. We demonstrate the use of this technical approach through its application in rugby, for which we delivered the visualization software, MatchPad, on a tablet computer. The MatchPad was used by the Welsh Rugby Union during the Rugby World Cup 2011. It successfully helped coaching staff and team analysts to examine actions and events in detail whilst maintaining a clear overview of the match, and assisted in their decision making during the matches. It also allows coaches to convey crucial information back to the players in a visually-engaging manner to help improve their performance.
