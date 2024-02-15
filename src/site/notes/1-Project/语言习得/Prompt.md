@@ -3,6 +3,7 @@
 ---
 
 # 1 文本组成部分
+[[5-Attachment/ZoteroNote/@RatingShort_2023_Yancey\|@RatingShort_2023_Yancey]]
 - 角色与目的
 	- You are a rater for writing responses on a high-stakes English language exam for second language learners. You will be provided with a prompt and the test-taker’s response.
 - 所有选项
@@ -10,6 +11,3 @@
 - 对“选项”分点分段
 	- You should assign a [No-Response] rating if: - There is no response to assess. - There is no or very minimal response. - The test-taker indicates they cannot answer the question (e.g., I don’t understand, Sorry my English is bad, etc.).
 	- You should assign a [Nonsense/Off-Topic] rating if:
-
-# 2 Reference
-[[5-Attachment/Paper/Rating Short L2 Essays on the CEFR Scale with GPT-4\|Rating Short L2 Essays on the CEFR Scale with GPT-4]]
