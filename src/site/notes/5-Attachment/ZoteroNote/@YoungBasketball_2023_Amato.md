@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@YoungBasketball_2023_Amato/","title":"Young basketball players have better manual dexterity performance than sportsmen and non-sportsmen of the same age: a cross-sectional study"}
+---
+
+# Young basketball players have better manual dexterity performance than sportsmen and non-sportsmen of the same age: a cross-sectional study
+## Link
+- Url: https://www.nature.com/articles/s41598-023-48335-7
+- Item: [item](zotero://select/library/items/LMFTDAB7)
+- File: [YoungBasketball_2023_Amato.pdf](zotero://open-pdf/library/items/5M3I9UGU)
+## Abstract
+Manual dexterity is a key skill in motor development. There are conflicting studies on the influence of sports practice on this skill and on which type of sport trains this ability the most in youth. Manual dexterity is usually assessed with expensive and time-consuming tools not easily available to facilities such as schools or sports clubs. The aim of this study was to assess differences in manual dexterity performance between young basketball players, sportsmen, and non-sportsmen. A further aim was to analyze whether the coin rotation task was a reliable tool for assessing manual dexterity. Based on the characteristics of the sport, we hypothesized that basketball players had better manual dexterity performances. Seventy-eight participants were included in the study and categorized into “basketball”, “sports”, and “non-sports” groups. Manual dexterity was assessed with the grooved pegboard, the coin rotation task, and the handgrip tests. The basketball group showed better performance in all tests. Significant differences were found between the basketball group and sports group and between the basketball group and non-sport group in the grooved pegboard (p < 0.05) and in the handgrip (p < 0.05) tests. Test–retest reliability of the coin rotation task scores was moderate in the basketball group (ICC2,1 0.63–0.6). Basketball practice could positively influence manual dexterity. The coin rotation task showed an acceptable construct of validity.
