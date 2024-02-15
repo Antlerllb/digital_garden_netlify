@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@QuantumenhancedMarkov_2023_Layden/","title":"Quantum-enhanced Markov chain Monte Carlo"}
+---
+
+# Quantum-enhanced Markov chain Monte Carlo
+## Link
+- Url: https://www.nature.com/articles/s41586-023-06095-4
+- Item: [item](zotero://select/library/items/WB76G8JF)
+- File: [QuantumenhancedMarkov_2023_Layden.pdf](zotero://open-pdf/library/items/L6QQB853)
+## Abstract
+Quantum computers promise to solve certain computational problems much faster than classical computers. However, current quantum processors are limited by their modest size and appreciable error rates. Recent efforts to demonstrate quantum speedups have therefore focused on problems that are both classically hard and naturally suited to current quantum hardware, such as sampling from complicated—although not explicitly useful—probability distributions1–3. Here we introduce and experimentally demonstrate a quantum algorithm that is similarly well suited to current hardware, but which samples from complicated distributions arising in several applications. The algorithm performs Markov chain Monte Carlo (MCMC), a prominent iterative technique4, to sample from the Boltzmann distribution of classical Ising models. Unlike most near-term quantum algorithms, ours provably converges to the correct distribution, despite being hard to simulate classically. But like most MCMC algorithms, its convergence rate is difficult to establish theoretically, so we instead analysed it through both experiments and simulations. In experiments, our quantum algorithm converged in fewer iterations than common classical MCMC alternatives, suggesting unusual robustness to noise. In simulations, we observed a polynomial speedup between cubic and quartic over such alternatives. This empirical speedup, should it persist to larger scales, could ease computational bottlenecks posed by this sampling problem in machine learning5, statistical physics6 and optimization7. This algorithm therefore opens a new path for quantum computers to solve useful—not merely difficult—sampling problems.
