@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@AttemptEvaluate_2021_Sato/","title":"Attempt to evaluate serve performance of Japanese top level tennis players using a doppler radar device -Focusing on the ball speed, the spin rate, and the number of trials required to achieve the task-"}
 ---
 
-# 1 Attempt to evaluate serve performance of Japanese top level tennis players using a doppler radar device -Focusing on the ball speed, the spin rate, and the number of trials required to achieve the task-
-## 1.1 Link
-- item: [item](zotero://select/library/items/M3VTH3Z4)
-- file: [zotero.pdf](zotero://open-pdf/library/items/S22IQUCC); [译文.pdf](zotero://open-pdf/library/items/4S3TVPYJ)
-## 1.2 Abstract
+# Attempt to evaluate serve performance of Japanese top level tennis players using a doppler radar device -Focusing on the ball speed, the spin rate, and the number of trials required to achieve the task-
+## Link
+- Item: [item](zotero://select/library/items/M3VTH3Z4)
+- File: [zotero.pdf](zotero://open-pdf/library/items/S22IQUCC); [译文.pdf](zotero://open-pdf/library/items/4S3TVPYJ)
+## Abstract
 This study attempted to comprehensively quantify (1) the ball speed and (2) spin rate of the serve and (3) the number of trials required to achieve the task in Japanese top-level tennis players (male and female professionals, male and female student athletes, male and female junior athletes, male and female wheelchair athletes). The purpose was to use the quantified data as a new evaluation index for serve performance. The subjects were instructed to hit the flat, slice, and kick serves into the designated area. The subjects attempted each type of serve towards the target area until five serves for each type successfully landed in that area. As a result, the approximate curve obtained from the speed and spin rate of the serve (flat, slice, kick) tended to be located in the upper right of the figure (X-axis: speed, Y-axis: spin rate) at the highest competition level. In addition, from the number of trials required to complete the task, we were able to obtain materials for inferring players' serving skills. Based on these findings, data feedback to the players would be important to promote self-understanding of their serving skills with correcting the gap between the players' subjective and objective evaluation. This study suggests an index that can contribute to improving the serve performance of not just top-level tennis players but also all recreational tennis players.
