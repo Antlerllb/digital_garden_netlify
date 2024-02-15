@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@UncoveringComplex_2020_Zwir/","title":"Uncovering the complex genetics of human character"}
+---
+
+# Uncovering the complex genetics of human character
+## Link
+- Url: https://www.nature.com/articles/s41380-018-0263-6
+- Item: [item](zotero://select/library/items/P432KRLC)
+- File: [UncoveringComplex_2020_Zwir.pdf](zotero://open-pdf/library/items/MX5GR5E4)
+## Abstract
+Human personality is 30–60% heritable according to twin and adoption studies. Hundreds of genetic variants are expected to influence its complex development, but few have been identified. We used a machine learning method for genome-wide association studies (GWAS) to uncover complex genotypic–phenotypic networks and environmental interactions. The Temperament and Character Inventory (TCI) measured the self-regulatory components of personality critical for health (i.e., the character traits of self-directedness, cooperativeness, and self-transcendence). In a discovery sample of 2149 healthy Finns, we identified sets of single-nucleotide polymorphisms (SNPs) that cluster within particular individuals (i.e., SNP sets) regardless of phenotype. Second, we identified five clusters of people with distinct profiles of character traits regardless of genotype. Third, we found 42 SNP sets that identified 727 gene loci and were significantly associated with one or more of the character profiles. Each character profile was related to different SNP sets with distinct molecular processes and neuronal functions. Environmental influences measured in childhood and adulthood had small but significant effects. We confirmed the replicability of 95% of the 42 SNP sets in healthy Korean and German samples, as well as their associations with character. The identified SNPs explained nearly all the heritability expected for character in each sample (50 to 58%). We conclude that self-regulatory personality traits are strongly influenced by organized interactions among more than 700 genes despite variable cultures and environments. These gene sets modulate specific molecular processes in brain for intentional goal-setting, self-reflection, empathy, and episodic learning and memory.
