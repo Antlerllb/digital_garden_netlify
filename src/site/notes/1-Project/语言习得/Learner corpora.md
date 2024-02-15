@@ -2,25 +2,15 @@
 {"dg-publish":true,"permalink":"/1-Project/语言习得/Learner corpora/"}
 ---
 
-# 1 Notion
-- high stakes exam
-	- 对个体学业、职业发展产生重大影响的考试
-# 2 Crucial role
-- Understanding language learners’ developmental aspects
-# 3 Recent momentum
-- Automatic processing: understand the properties of learner language
-# 4 Major caveats
+# 1 Recent momentum
+[[5-Attachment/ZoteroNote/@L2friendlyPipelines_2023_Sung\|@L2friendlyPipelines_2023_Sung]]
+- Automatic processing: is gaining momentum for a better understanding of the properties of learner language (e.g., Bestgen and Granger, 2014; Kyle and Crossley, 2017; Lu, 2010).
+# 2 Major caveats
+[[5-Attachment/ZoteroNote/@L2friendlyPipelines_2023_Sung\|@L2friendlyPipelines_2023_Sung]]
 - sampling bias (diversity, equity, inclusion, generalizability)
 	- inclusion: 包容性
 	- generalizability: the generalizability of previous findings to other (and lesser-studied) languages
 	- towards dominant/hegemonic viewpoints and discourse
 	- centering around a limited range of languages and language-usage contexts
+	- (c.f., Bender et al., 2021)
 - L1-based automatic processing pipelines work for L2 data
-	- the characteristics of learner
-		- spacing/spelling errors
-		- novel combinations of words and phrases
-# 5 Other
-- Linguistic properties of Korean
-
-# 6 Reference
-- [[5-Attachment/Paper/Towards L2-friendly pipelines for learner corpora A case of written production by L2-Korean learners\|Towards L2-friendly pipelines for learner corpora A case of written production by L2-Korean learners]]
