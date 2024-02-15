@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@SensitivityAnalysis_2020_Wang/","title":"Sensitivity analysis of bursting liability for different coal-rock combinations based on their inhomogeneous characteristics"}
+---
+
+# Sensitivity analysis of bursting liability for different coal-rock combinations based on their inhomogeneous characteristics
+## Link
+- Url: https://doi.org/10.1080/19475705.2020.1714754
+- Item: [item](zotero://select/library/items/DJ4E3QYB)
+- File: [SensitivityAnalysis_2020_Wang.pdf](zotero://open-pdf/library/items/YAMVRHIU)
+## Abstract
+Because of the close relationship between rock burst and structural characteristics of coal and rock mass, it is important to study failure and bursting liability of different coal-rock combinations to predict rock burst. Hence, based on the structure and interaction of roof-coal-floor system, and the inhomogeneous characteristics of different media, the progressive failure process and acoustic emission (AE) characteristics of different coal-rock combinations (i.e. rock-coal (R-C) model and rock-coal-floor (R-C-F) model) are studied using realistic failure process analysis (RFPA2D), and the impact of different coal-rock combinations on bursting liability is revealed. Further, the bursting sensitivity for different combinations is compared and determined. The results show that the indices of bursting liability for rock-coal combinations are greater than those of single coal, while those of the R-C-F model is also higher than those of the R-C model. The uniaxial compressive strength of the R-C-F model is the highest, the elastic strain energy before stress peak is accumulated, and the softening characteristic after stress peak is significant with the energy rapidly releasing, indicating that the duration of dynamic fracture DT is small and bursting energy index KE is high, and the AE characteristics are more significant. Hence, it is more sensitive and reasonable to evaluate the bursting liability considering the interaction of the roof-coal-floor structure, which can reflect the burst risk in actual field. The results can be used to evaluate the burst risk more scientifically and comprehensively and provide strong guidance for the prediction and prevention of rock burst.
