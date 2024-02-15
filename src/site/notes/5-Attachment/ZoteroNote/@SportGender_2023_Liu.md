@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/5-Attachment/ZoteroNote/@SportGender_2023_Liu/","title":"Sport–gender stereotypes and their impact on impression evaluations"}
 ---
 
-# 1 Sport–gender stereotypes and their impact on impression evaluations
-## 1.1 Link
-- url: https://www.nature.com/articles/s41599-023-02132-9
-- item: [item](zotero://select/library/items/ZQ9D4P3K)
-- file: [SportGender_2023_Liu.pdf](zotero://open-pdf/library/items/C3R8VZLS)
-## 1.2 Abstract
+# Sport–gender stereotypes and their impact on impression evaluations
+## Link
+- Url: https://www.nature.com/articles/s41599-023-02132-9
+- Item: [item](zotero://select/library/items/ZQ9D4P3K)
+- File: [SportGender_2023_Liu.pdf](zotero://open-pdf/library/items/C3R8VZLS)
+## Abstract
 Sports have traditionally had gendered connotations in society and culture, resulting in solidified gender stereotypes that influence impression evaluations. China has a special gender social culture; however, how sport–gender stereotypes (SGS) influence the gender evaluation of people in China in the Global South is still unknown. This study obtained gender-typed sports and attribute adjectives and proved the existence of SGS through a pilot study (392 college students, n1 = 207, n2 = 185) and then used two studies to explore the influence of both explicit and implicit SGS on evaluations and compared the differences between these stereotypes and general gender stereotypes. Study 1 (395 college students, n1a = 192, n1b = 203) examined the explicit level using a questionnaire experiment. The results of two experiments showed that (1) stereotype-consistent targets were more masculine or feminine in correspondence with their gender, while stereotype-inconsistent targets had higher anti-gender traits; and (2) the inclusion of stereotype-consistent sports activities led targets to be evaluated as more masculine, while stereotype-inconsistent sport activities showed gender evaluation reversal, especially for women. Study 2 (103 college students, n2a = 61, n2b = 42) measured the implicit attitudes using the Implicit Association Test. The results of two experiments showed that (1) implicit evaluations of stereotype-consistent targets were associated faster than stereotype-inconsistent targets and (2) the inclusion of gender-typed sports weakened implicit gender evaluations. In conclusion, this is the first quantitative study to explore the unique effect of SGS on individual evaluations and how they differ from general gender stereotypes in the Chinese context. These findings could provide valuable insights for research and the application of sports social science and physical education.
