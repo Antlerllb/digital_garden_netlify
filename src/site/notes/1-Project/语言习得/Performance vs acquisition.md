@@ -17,4 +17,4 @@ Good, even human-like, performance on NLP tasks does not necessarily imply that 
 # 2 Perturbation
 [[1-Project/语言习得/ICL Perturbation\|ICL Perturbation]]
 # 3 Distribution of inputs and labels
-[[1-Project/语言习得/Zero-shot Pseudo-Demonstrations\|Zero-shot Pseudo-Demonstrations]]
+[[1-Project/语言习得/Z-ICL Pseudo\|Z-ICL Pseudo]]
