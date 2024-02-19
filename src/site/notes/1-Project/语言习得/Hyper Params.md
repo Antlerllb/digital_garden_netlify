@@ -15,9 +15,11 @@
 | Prompt | 自己定义的Prompt名字 |  |
 | ICL |  |  |
 [[5-Attachment/ZoteroNote/@WinoDictProbing_2023_Eisenschlos\|@WinoDictProbing_2023_Eisenschlos]]
-[[1-Project/语言习得/Zero-shot Pseudo-Demonstrations\|Zero-shot Pseudo-Demonstrations]]
+[[1-Project/语言习得/Z-ICL Pseudo\|Z-ICL Pseudo]]
 # 2 Acquisition
 | 字段 | 来源 |
 | ---- | ---- |
 | Epoch | [[1-Project/语言习得/Grammar learning trajectories\|Grammar learning trajectories]] |
 | Step | [[1-Project/语言习得/Word learning trajectories\|Word learning trajectories]] |
+# 3 还没加进表格的可用参数
+[[1-Project/语言习得/BLiMP#2.2 控制变量\|BLiMP#2.2 控制变量]]
