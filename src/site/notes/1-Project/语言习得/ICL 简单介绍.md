@@ -12,3 +12,7 @@
 [[5-Attachment/ZoteroNote/@GPTREIncontext_2023_Wan\|@GPTREIncontext_2023_Wan]]
 - LLMs employ a new paradigm known as incontext learning (ICL) (Brown et al., 2020; Min et al., 2022a) 
 - formulates an NLP task under the paradigm of language generation and makes predictions by learning from a few demonstrations.
+
+[[5-Attachment/ZoteroNote/@SelfICLZeroShot_2023_Chen\|@SelfICLZeroShot_2023_Chen]]
+- Large language models (LMs) have shown striking ability to adapt to new tasks at test time by prompting with a few input-output exemplars, i.e., demonstrations (Brown et al., 2020; Wei et al., 2022; Chowdhery et al., 2022; Wei et al., 2023).
+- This ability is refereed to as in-context learning (ICL; Brown et al., 2020).
