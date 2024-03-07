@@ -8,6 +8,7 @@
 [[1-Project/2024-IM2C/总体框架\|总体框架]]
 # 2 正文
 - Summary
+	- 你们填充其他文字自由发挥就行，但写完摘要时，一定要和我对一下，Summary如果写不好，评委就不会往下翻了，可视化都白做了。
 	- 细节：美赛的摘要，大家习惯叫Summary（题目也是），而不是Abstract
 - Introduction
 	- Background
@@ -21,33 +22,34 @@
 - Model Evaluation
 	- Strength
 	- Weakness
-	- Robustness Analysis
+	- [[1-Project/2024-IM2C/Robustness Analysis\|Robustness Analysis]]
 - References
 - 附录可加可不加，看够不够时间。
 # 3 代码A
-| File                                          | person                           |
-| --------------------------------------------- | -------------------------------- |
-| [[1-Project/2024-IM2C/因素描述图\|因素描述图]]       | <ul><li>代码A</li><li>绘图</li></ul> |
-| [[1-Project/2024-IM2C/泛化解释图-交互\|泛化解释图-交互]] | <ul><li>代码A</li><li>绘图</li></ul> |
+| File                                              | person                           |
+| ------------------------------------------------- | -------------------------------- |
+| [[1-Project/2024-IM2C/因素描述图\|因素描述图]]           | <ul><li>代码A</li><li>绘图</li></ul> |
+| [[1-Project/2024-IM2C/泛化解释图-交互\|泛化解释图-交互]]     | <ul><li>代码A</li><li>绘图</li></ul> |
+| [[1-Project/2024-IM2C/ROC-AUC曲线图\|ROC-AUC曲线图]] | <ul><li>代码A</li></ul>            |
 
 { .block-language-dataview}
 # 4 代码S
 | File                                                | person                |
 | --------------------------------------------------- | --------------------- |
 | [[1-Project/2024-IM2C/因素聚类图\|因素聚类图]]             | <ul><li>代码S</li></ul> |
-| [[1-Project/2024-IM2C/泛化实验结果柱状图\|泛化实验结果柱状图]]     | <ul><li>代码S</li></ul> |
 | [[1-Project/2024-IM2C/时间预测结果-不同国家\|时间预测结果-不同国家]] | <ul><li>代码S</li></ul> |
 | [[1-Project/2024-IM2C/时间预测结果-不同宠物\|时间预测结果-不同宠物]] | <ul><li>代码S</li></ul> |
+| [[1-Project/2024-IM2C/泛化实验结果柱状图\|泛化实验结果柱状图]]     | <ul><li>代码S</li></ul> |
 
 { .block-language-dataview}
 # 5 绘图
 | File                                                | person                           |
 | --------------------------------------------------- | -------------------------------- |
-| [[1-Project/2024-IM2C/因素描述图\|因素描述图]]             | <ul><li>代码A</li><li>绘图</li></ul> |
-| [[1-Project/2024-IM2C/集成模型图\|集成模型图]]             | <ul><li>绘图</li></ul>             |
+| [[1-Project/2024-IM2C/LSTM模型图\|LSTM模型图]]         | <ul><li>绘图</li></ul>             |
 | [[1-Project/2024-IM2C/决策树可视化\|决策树可视化]]           | <ul><li>绘图</li></ul>             |
+| [[1-Project/2024-IM2C/因素描述图\|因素描述图]]             | <ul><li>代码A</li><li>绘图</li></ul> |
 | [[1-Project/2024-IM2C/泛化解释图-交互\|泛化解释图-交互]]       | <ul><li>代码A</li><li>绘图</li></ul> |
 | [[1-Project/2024-IM2C/泛化解释图-物种共同点\|泛化解释图-物种共同点]] | <ul><li>绘图</li></ul>             |
-| [[1-Project/2024-IM2C/LSTM模型图\|LSTM模型图]]         | <ul><li>绘图</li></ul>             |
+| [[1-Project/2024-IM2C/集成模型图\|集成模型图]]             | <ul><li>绘图</li></ul>             |
 
 { .block-language-dataview}
