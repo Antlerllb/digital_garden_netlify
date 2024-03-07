@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/1-Project/爬虫计设/网站表 website/"}
+---
+
+- id：自增
+- url
+- c_name：中文名
+- e_name：英文名
+- remark：备注
+- level：优先级别
+- lan_num
+- version：版本（str）
+	- 举例：1.0 2.0 3.0 3.1
+- author
+- status
+	- 0 未开发
+	- 1 开发中
+	- 2 运行中
+	- 3 报错
+- country_id
+- language_id
+- updated_time：触发器
+- first_run_time：爬虫第一次运行
+- last_run_time：爬虫最近一次运行
