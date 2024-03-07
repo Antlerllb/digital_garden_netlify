@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-Project/语言习得/Investigation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-Project/语言习得/Investigation/"}
 ---
 
 # 1 Viewpoint
