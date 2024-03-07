@@ -2,25 +2,27 @@
 {"dg-publish":true,"permalink":"/1-Project/2024-IM2C/Model I/"}
 ---
 
-# 1 Data Collection（1文1表）
+# 1 大标题
+Voting Ensemble Classification Model
+# 2 Data Collection（1文1表）
 - 对数据来源表的描述
 	- 先画表格，把表格复制给gpt，让它描述表格
 - 数据来源表
 	- 字段：国家（4个）、网址名称、网站网址、网站简介
 	- 实在找不到，可以找一个有类似内容的网站，说我们用了爬虫来爬取数据
-# 2 Z-Score Normalization（2文1图）
+# 3 Z-Score Normalization（2文1图）
 - 第一段：你收集的因素
 	- 数量：15个左右
 	- 内容：房子、工资、工作时间、职业、爱好等，现在的因素好像都是房子的
 - 第二段：Z-Score Normalization简单介绍
 - [[1-Project/2024-IM2C/因素描述图\|因素描述图]]
-# 3 Hierarchical Clustering（2文1图）
+# 4 Hierarchical Clustering（2文1图）
 - 第一段
 	- Hierarchical Clustering简单介绍
 - [[1-Project/2024-IM2C/因素聚类图\|因素聚类图]]
 - 第二段
 	- 描述一下画出来的聚类图
-# 4 Ensemble learning: pet-ready classifier（2文1图）
+# 5 Ensemble learning: pet-ready classifier（2文1图）
 - 备注
 	- 子模型：逻辑回归、决策树、LightGBM、CatBoost
 	- 集成模型：每个子模型对每个样本进行预测和投票，最终选择投票最高的类作为最终的预测结果（是否准备养猫？）
@@ -28,7 +30,7 @@
 	- 逻辑回归、决策树、LightGBM、CatBoost
 - 第二段：简单介绍集成模型，结合我们的子模型来讲。
 - [[1-Project/2024-IM2C/集成模型图\|集成模型图]]
-# 5 Result of Task 1（2文1图1表）
+# 6 Result of Task 1（2文1图1表）
 - 第1段：对养猫例子表
 	- 先画表格，把表格复制给gpt，让它描述表格
 - 养猫例子表
