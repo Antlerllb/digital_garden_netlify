@@ -18,7 +18,6 @@
 - [[1-Project/2024-IM2C/Model I\|Model I]]
 - [[1-Project/2024-IM2C/Model II\|Model II]]
 - [[1-Project/2024-IM2C/Model III\|Model III]]
-- Sensitivity Analysis
 - Model Evaluation
 	- Strength
 	- Weakness
@@ -33,10 +32,12 @@
 
 { .block-language-dataview}
 # 4 代码S
-| File                                            | person                |
-| ----------------------------------------------- | --------------------- |
-| [[1-Project/2024-IM2C/因素聚类图\|因素聚类图]]         | <ul><li>代码S</li></ul> |
-| [[1-Project/2024-IM2C/泛化实验结果柱状图\|泛化实验结果柱状图]] | <ul><li>代码S</li></ul> |
+| File                                                | person                |
+| --------------------------------------------------- | --------------------- |
+| [[1-Project/2024-IM2C/因素聚类图\|因素聚类图]]             | <ul><li>代码S</li></ul> |
+| [[1-Project/2024-IM2C/泛化实验结果柱状图\|泛化实验结果柱状图]]     | <ul><li>代码S</li></ul> |
+| [[1-Project/2024-IM2C/时间预测结果-不同国家\|时间预测结果-不同国家]] | <ul><li>代码S</li></ul> |
+| [[1-Project/2024-IM2C/时间预测结果-不同宠物\|时间预测结果-不同宠物]] | <ul><li>代码S</li></ul> |
 
 { .block-language-dataview}
 # 5 绘图
@@ -47,5 +48,6 @@
 | [[1-Project/2024-IM2C/决策树可视化\|决策树可视化]]           | <ul><li>绘图</li></ul>             |
 | [[1-Project/2024-IM2C/泛化解释图-交互\|泛化解释图-交互]]       | <ul><li>代码A</li><li>绘图</li></ul> |
 | [[1-Project/2024-IM2C/泛化解释图-物种共同点\|泛化解释图-物种共同点]] | <ul><li>绘图</li></ul>             |
+| [[1-Project/2024-IM2C/LSTM模型图\|LSTM模型图]]         | <ul><li>绘图</li></ul>             |
 
 { .block-language-dataview}
