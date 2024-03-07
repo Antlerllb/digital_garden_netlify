@@ -3,7 +3,6 @@
 ---
 
 [[5-Attachment/ZoteroNote/@EvaluatingNeural_2023_VazquezMartinez\|@EvaluatingNeural_2023_VazquezMartinez]]
- #eva-acquisition
 # 1 Native speakers
  #native-speaker
 - Native speakers’ acceptability judgments interact with other cognitive and perceptual systems and generally produce **gradient results**.
