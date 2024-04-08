@@ -17,13 +17,13 @@
 	- Our Work
 - Assumptions and Explanations
 - Notations
-- [[1-Project/2024-IM2C/Model I\|Model I]]
-- [[1-Project/2024-IM2C/Model II\|Model II]]
+- [[4-Archives/2024-IM2C/Model I\|Model I]]
+- [[4-Archives/2024-IM2C/Model II\|Model II]]
 - [[4-Archives/2024-IM2C/Model III\|Model III]]
 - Model Evaluation
 	- Strength
 	- Weakness
-	- [[1-Project/2024-IM2C/Robustness Analysis\|Robustness Analysis]]
+	- [[4-Archives/2024-IM2C/Robustness Analysis\|Robustness Analysis]]
 - References
 - 附录可加可不加，看够不够时间。
 # 3 代码A
